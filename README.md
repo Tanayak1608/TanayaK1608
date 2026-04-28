@@ -1,7 +1,8 @@
 # 👋 Hi, I'm Tanaya Kulkarni
 
 **MSc Economics | Financial Econometrics & Macroeconomics**  
-📍 Heidelberg, Germany | 🗣️ English (fluent) | Deutsch [A2]
+📍 **Currently enrolled at:** Alfred Weber Institute of Economics, Heidelberg University  
+📍 Heidelberg, Germany | 🗣️ English (C2) | Deutsch (A2)
 
 ## 🔍 Looking for Working Student (Werkstudent) Roles in:
 - Risk Management & Quantitative Analysis
@@ -17,12 +18,25 @@
 ## 📌 Featured Projects (Coming May 2026)
 - **Cashflow Forecasting** – Time series forecasting for corporate liquidity
 - **Payment Delay + SHAP** – XGBoost with model explainability
-- **Financial KPIs** – DSO/DPO calculation and visualization
+- **Financial KPIs** – DSO/DPO calculation and visualisation
 
 ## 📫 Let's Connect
-- [LinkedIn]www.linkedin.com/in/tanaya16
-- [Email]tanayakulkarni1608@gmail.com
+- [LinkedIn](www.linkedin.com/in/tanaya16)
+- [Email](mailto:tanayakulkarni1608@gmail.com)
 
 ---
 
-*Actively seeking roles starting [June/July 2026]. Open to hybrid/remote work in Germany.*
+## 💼 Availability
+
+| Aspect | Details |
+| :--- | :--- |
+| **Start date** | Immediate (as soon as contract is signed) |
+| **Weekly hours** | 20 hrs/week (legally permitted by my student visa/residence permit) |
+| **Work model** | Hybrid / Remote / On-site |
+| **On-site locations** | Stuttgart, Frankfurt, Mannheim, Walldorf (and surrounding areas) |
+
+**Visa status**: Valid student residence permit with full working student allowance (20 hrs/week during semester). No additional sponsorship required.
+
+*Open to roles starting immediately – available for interviews this week.*
+
+---
