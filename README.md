@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I'm Tanaya Kulkarni
 
-<!--
-**Tanayak1608/TanayaK1608** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**MSc Economics | Financial Econometrics & Macroeconomics**  
+📍 Heidelberg, Germany | 🗣️ English (fluent) | Deutsch [A2]
 
-Here are some ideas to get you started:
+## 🔍 Looking for Working Student (Werkstudent) Roles in:
+- Risk Management & Quantitative Analysis
+- Financial Forecasting & Econometrics
+- Data Science / Analytics (Finance focus)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technical Toolkit
+- **Languages**: Python (pandas, statsmodels, scikit-learn), SQL
+- **Econometrics**: Time series (ARIMA, GARCH, VAR), forecasting
+- **ML & Explainability**: XGBoost, SHAP values
+- **Tools**: Git, Jupyter, Databricks (learning)
+
+## 📌 Featured Projects (Coming May 2026)
+- **Cashflow Forecasting** – Time series forecasting for corporate liquidity
+- **Payment Delay + SHAP** – XGBoost with model explainability
+- **Financial KPIs** – DSO/DPO calculation and visualization
+
+## 📫 Let's Connect
+- [LinkedIn]www.linkedin.com/in/tanaya16
+- [Email]tanayakulkarni1608@gmail.com
+
+---
+
+*Actively seeking roles starting [June/July 2026]. Open to hybrid/remote work in Germany.*
